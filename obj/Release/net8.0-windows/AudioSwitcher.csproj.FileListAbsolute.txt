@@ -1,0 +1,17 @@
+C:\Development\Projects\AudioSwitcher\obj\Release\net8.0-windows\AudioSwitcher.csproj.AssemblyReference.cache
+C:\Development\Projects\AudioSwitcher\obj\Release\net8.0-windows\AudioSwitcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Projects\AudioSwitcher\obj\Release\net8.0-windows\AudioSwitcher.AssemblyInfoInputs.cache
+C:\Development\Projects\AudioSwitcher\obj\Release\net8.0-windows\AudioSwitcher.AssemblyInfo.cs
+C:\Development\Projects\AudioSwitcher\obj\Release\net8.0-windows\AudioSwitcher.csproj.CoreCompileInputs.cache
+C:\Development\Projects\AudioSwitcher\bin\Release\net8.0-windows\AudioSwitcher.exe
+C:\Development\Projects\AudioSwitcher\bin\Release\net8.0-windows\AudioSwitcher.deps.json
+C:\Development\Projects\AudioSwitcher\bin\Release\net8.0-windows\AudioSwitcher.runtimeconfig.json
+C:\Development\Projects\AudioSwitcher\bin\Release\net8.0-windows\AudioSwitcher.dll
+C:\Development\Projects\AudioSwitcher\bin\Release\net8.0-windows\AudioSwitcher.pdb
+C:\Development\Projects\AudioSwitcher\bin\Release\net8.0-windows\Newtonsoft.Json.dll
+C:\Development\Projects\AudioSwitcher\obj\Release\net8.0-windows\AudioSwi.218B07B6.Up2Date
+C:\Development\Projects\AudioSwitcher\obj\Release\net8.0-windows\AudioSwitcher.dll
+C:\Development\Projects\AudioSwitcher\obj\Release\net8.0-windows\refint\AudioSwitcher.dll
+C:\Development\Projects\AudioSwitcher\obj\Release\net8.0-windows\AudioSwitcher.pdb
+C:\Development\Projects\AudioSwitcher\obj\Release\net8.0-windows\AudioSwitcher.genruntimeconfig.cache
+C:\Development\Projects\AudioSwitcher\obj\Release\net8.0-windows\ref\AudioSwitcher.dll
